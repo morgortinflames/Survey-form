@@ -1,2 +1,2 @@
 # Survey-form
-Form page example
+Form page example with only html and css
